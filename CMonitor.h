@@ -2,10 +2,7 @@
 #define CMONITOR_H
 
 #include <iostream>
-#include <string>
-#include <vector>
 #include <chrono>
-#include <memory>
 
 template<typename TypeOfTimer>
 class CMonitor
